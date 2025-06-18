@@ -1,0 +1,9 @@
+! Swap Caps and Esc
+clear lock
+
+keycode 66 = Escape NoSymbol Escape
+keycode 9 = Caps_Lock NoSymbol Caps_Lock
+
+! Swap AltGR and Super
+! keycode 105 = Super_L NoSymbol Super_L
+! keycode 133 = Control_R NoSymbol Control_R
